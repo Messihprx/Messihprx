@@ -17,7 +17,7 @@ Tenho interesse em **Análise de Dados**, desenvolvimento de aplicações e auto
 1. **[Nome do Projeto 1]**: Em breve. [Link para o código]
 
 ### 📫 Como me encontrar
-* **LinkedIn:** https://www.linkedin.com/in/breno-messi-646bb22b3/
+* **LinkedIn:** www.linkedin.com/in/breno-messi
 * **Email:** brenomessisilva@gmail.com
 
 
