@@ -14,7 +14,7 @@ Tenho interesse em **Análise de Dados**, desenvolvimento de aplicações e auto
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 🚀 Meus Principais Projetos
-1. **[python-ai-excel-analyzer]**: Código usando IA para análise de arquivo excel. [Link para o código](https://github.com/Messihprx/python-ai-excel-analyzer.git)
+1. **python-ai-excel-analyzer**: Código usando IA para análise de arquivo excel. [Link para o código](https://github.com/Messihprx/python-ai-excel-analyzer.git)
 
 ### 📫 Como me encontrar
 * **LinkedIn:** www.linkedin.com/in/breno-messi
