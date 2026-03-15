@@ -15,6 +15,7 @@ Tenho interesse em **Análise de Dados**, desenvolvimento de aplicações e auto
 
 ### 🚀 Meus Principais Projetos
 1. **python-ai-excel-analyzer**: Código usando IA para análise de arquivo excel. [Link para o código](https://github.com/Messihprx/python-ai-excel-analyzer.git)
+2. **Rewards bing automator**: App para automação de pesquisas bing. [Link para o app](https://github.com/Messihprx/bing-rewards-automator-IA)
 
 ### 📫 Como me encontrar
 * **LinkedIn:** www.linkedin.com/in/breno-messi
