@@ -2,7 +2,7 @@
 
 Tenho interesse em **Análise de Dados**, desenvolvimento de aplicações e automação com **Python**.
 
-🎓 Atualmente cursando o 5º período de **Análise e Desenvolvimento de Sistemas** e em busca da primeira oportunidade na área de tecnologia.
+🎓 Atualmente cursando o 6º período de **Análise e Desenvolvimento de Sistemas** e em busca da primeira oportunidade na área de tecnologia.
 
 ### 📊 Ciência e Análise de Dados
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Openpyxl](https://img.shields.io/badge/Openpyxl-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![AI Integration](https://img.shields.io/badge/AI_Integration-000000?style=for-the-badge&logo=openai&logoColor=white)
